@@ -21,6 +21,7 @@
 and many more...
   
 # My Stats
+![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDevalla&theme=tokyonight&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDevalla&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikDevalla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
