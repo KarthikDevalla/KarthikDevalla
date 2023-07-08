@@ -1,6 +1,7 @@
 # Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="80" height="40"/>&nbsp;
+</div>
   
 # My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDevalla&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
