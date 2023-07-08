@@ -1,9 +1,9 @@
-### Hi there 👋
-
+# Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  
+# My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDevalla&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
-**KarthikDevalla/KarthikDevalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
