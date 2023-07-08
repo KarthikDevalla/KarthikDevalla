@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikDevalla&theme=radical&border_radius=5.1)](https://git.io/streak-stats)
 **KarthikDevalla/KarthikDevalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
