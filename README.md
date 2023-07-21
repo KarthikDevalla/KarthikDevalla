@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="80" height="80"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
 </div>
-and many more...
+are a few to mention.
   
 # My Stats
 ![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikDevalla&theme=tokyonight&show_icons=true)
